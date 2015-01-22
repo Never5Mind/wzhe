@@ -1,2 +1,0 @@
-# wzhe
-Big Data Class
